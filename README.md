@@ -1,0 +1,1 @@
+# practica_filtro_imagenes
