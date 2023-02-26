@@ -33,6 +33,10 @@ main {
 #filter-container {
   margin: 20px 0;
 }
+#filter-container h4 {
+  display: inline;
+  margin-right: 10px;
+}
 #filter-container button {
   margin-right: 10px;
   padding: 5px;
@@ -63,7 +67,7 @@ section {
   margin: var(--gap);
 }
 
-article.card {
+.card {
   box-shadow: 1px 1px 5px var(--medium);
 }
 
